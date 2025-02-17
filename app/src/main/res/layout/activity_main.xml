@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:layout_marginTop="40dp"
-        android:entries="@array/pet_categories"/>
+        android:layout_marginTop="16dp"
+        android:entries="@array/pet_categories" />
 
     <Button
         android:id="@+id/find_pet"
@@ -22,8 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="@string/find_pet"
-        android:onClick="onClickFindPet"/>
+        android:onClick="onClickFindPet"
+        android:text="@string/find_pet" />
 
     <TextView
         android:id="@+id/breeds"
