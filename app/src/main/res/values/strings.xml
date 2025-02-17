@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Pet Adviser</string>
+    <string name="find_pet">Buscar Razas</string>
+    <string name="breeds">No hay razas seleccionadas</string>
+    <string-array name="pet_categories">
+        <item>Pastores</item>
+        <item>Pinscher</item>
+        <item>Terriers</item>
+    </string-array>
+</resources>
